@@ -1,0 +1,8 @@
+__pycache__/
+*.py[cod]
+build/
+dist/
+*.spec
+ClassTimer_By_teacher_Ma_source.zip
+.venv/
+venv/
